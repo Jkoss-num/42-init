@@ -1,0 +1,2 @@
+resolv.conf is the name of a computer file used to configure the system's Domain Name System (DNS) resolver.
+Path: /etc/resolv.conf
